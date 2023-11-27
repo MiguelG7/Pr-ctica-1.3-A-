@@ -11,7 +11,7 @@ Búsqueda heurística sin adversarios
 ## Instalación
 
 ```bash
-git clone [https://github.com/MiguelG7/pokerPremium.git](https://github.com/MiguelG7/Practica-1.3-Aestrella.git)
+git clone https://github.com/MiguelG7/Practica-1.3-Aestrella.git
 ```
 
 ## Uso
