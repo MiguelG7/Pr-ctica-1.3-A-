@@ -5,7 +5,7 @@ Búsqueda heurística sin adversarios
 
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Preguntas a responder](#Preguntas_a_responder)
+- [Preguntas a responder](#Preguntas-a-responder)
 - [Licencia](#licencia)
 - [Contacto](#contacto)
 
