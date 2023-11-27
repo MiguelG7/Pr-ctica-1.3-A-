@@ -11,12 +11,14 @@ Búsqueda heurística sin adversarios
 
 ## Instalación
 
+Clone el repositorio en su área de trabajo mediante el siguiente:
 ```bash
 git clone https://github.com/MiguelG7/Practica-1.3-Aestrella.git
 ```
 
 ## Uso
-Desde el directorio que contiene el archivo 'build.xml' ejecute el siguiente comando:
+
+Una vez ya haya clonado los archivos, descomprima 'java-algorithms-implementation.zip' y desde el directorio que contiene el archivo 'build.xml' ejecute el siguiente comando:
 ```
 ant run_main
 ```
