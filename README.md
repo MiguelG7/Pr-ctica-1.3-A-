@@ -11,7 +11,7 @@ Búsqueda heurística sin adversarios
 
 ## Instalación
 
-Clone el repositorio en su área de trabajo mediante el siguiente:
+Clone el repositorio en su área de trabajo mediante el siguiente comando:
 ```bash
 git clone https://github.com/MiguelG7/Practica-1.3-Aestrella.git
 ```
